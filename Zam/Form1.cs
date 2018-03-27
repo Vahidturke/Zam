@@ -7,10 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using ReichUI.Forms;
 
 namespace Zam
 {
-    public partial class Form1 : Form
+    public partial class Form1 : ReichForm
     {
         public Form1()
         {
